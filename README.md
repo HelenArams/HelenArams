@@ -59,4 +59,10 @@ Smaller utilities: [luhn-bin-kit](https://github.com/HelenArams/luhn-bin-kit) (L
 
 **Architecture:** DDD · CQRS · event-driven · sagas and outbox · hexagonal services · REST and gRPC
 
+### GitHub
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=HelenArams&show_icons=true&hide_border=true&theme=default&hide=stars" alt="GitHub stats" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenArams&layout=compact&hide_border=true&hide=html,css,javascript,jupyter%20notebook" alt="Top languages" height="160">
+</p>
 
