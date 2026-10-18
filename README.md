@@ -66,3 +66,4 @@ Smaller utilities: [luhn-bin-kit](https://github.com/HelenArams/luhn-bin-kit) (L
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenArams&layout=compact&hide_border=true&hide=html,css,javascript,jupyter%20notebook" alt="Top languages" height="160">
 </p>
 
+<sub>All sample card numbers in these repositories are scheme test ranges. Nothing here is derived from employer code.</sub>
