@@ -5,7 +5,7 @@ payments: authorization, tokenization, 3DS2, scheme integrations (Visa, Masterca
 reconciliation. Before that I was at Adobe on Workfront and Fusion, splitting a monolith into services and building
 connectors for things like Outlook, Salesforce and Jira.
 
-Based in Frankfurt, open to remote B2B work. More on [helenarams.github.io](https://helenarams.github.io) or
+Open to remote B2B work. More on [helenarams.github.io](https://helenarams.github.io) or
 [LinkedIn](https://www.linkedin.com/in/helen-golang-java-ai-engineer/).
 
 ### Things I've put here
