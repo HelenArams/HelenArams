@@ -19,6 +19,7 @@ Nothing here comes from employer code, and every card number is a scheme test ra
 - **[payment-webhooks](https://github.com/HelenArams/payment-webhooks)** – signed webhooks with retries and a dead-letter queue. Spring Boot.
 - **[idempotency-spring-starter](https://github.com/HelenArams/idempotency-spring-starter)** – `@Idempotent` on a controller method so client retries don't double-charge. In-memory or Redis.
 - **[decline-code-assistant](https://github.com/HelenArams/decline-code-assistant)** – a LangGraph agent on Claude that explains why transactions declined, with citations into a curated knowledge base. Also runs as an MCP server.
+- **[fraud-triage-agent](https://github.com/HelenArams/fraud-triage-agent)** – LangGraph agent for the grey zone of card fraud: rule features score it, Claude (Anthropic API or Bedrock) investigates with tools, guardrails check the verdict, and high-risk cases pause for a human.
 - **[luhn-bin-kit](https://github.com/HelenArams/luhn-bin-kit)** – Luhn, BIN detection, PAN masking. Small, but I reach for it constantly.
 
 Older: [influxdb-pytest-plugin](https://github.com/HelenArams/influxdb-pytest-plugin), from my test-automation days.
