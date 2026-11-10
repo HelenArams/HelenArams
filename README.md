@@ -6,7 +6,7 @@ reconciliation. Before that I was at Adobe on Workfront and Fusion, splitting a 
 connectors for things like Outlook, Salesforce and Jira.
 
 Open to remote B2B work. More on [helenarams.github.io](https://helenarams.github.io) or
-[LinkedIn](https://www.linkedin.com/in/helen-aramyan/).
+[LinkedIn](https://www.linkedin.com/in/helen-product-engineer/).
 
 ### Things I've put here
 
