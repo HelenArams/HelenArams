@@ -29,4 +29,4 @@ Older: [influxdb-pytest-plugin](https://github.com/HelenArams/influxdb-pytest-pl
 Agentic tooling for payment operations: LangGraph graphs, MCP servers, retrieval over curated runbooks, and evals so
 the model has to earn its answers. Also strong opinions on when Go beats Java in a payments stack, happy to argue.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelenArams&layout=compact&hide_border=true&hide=html,css,javascript,jupyter%20notebook" alt="languages" height="150">
+<img src="assets/languages.svg" alt="Most used languages" width="420">
